@@ -8,7 +8,7 @@
 <!----------------------------- About Section -------------------------------->
 
 
-<h3>I am a passionate full-stack software developer who enjoys working on all kinds of tech.</h3>
+<h3>I am a passionate software developer who enjoys working on tech things.</h3>
 
 - I’m currently available for new job opportunities
 
