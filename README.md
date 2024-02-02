@@ -49,11 +49,6 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="irijoseph41@gmail.com" />
     </a>
 </p>
-<br>
 
-<div align="end">
-<p><b>Visitors Count</b></p>  
-<img src="https://profile-counter.glitch.me/{Irirwanirira}/count.svg" />
-</div>
 
  
