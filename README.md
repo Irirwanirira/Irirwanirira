@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **Software Development Projects**
 
-- 🦾 I'm a problem solver and fast learner with good communication skills
-
 - 💬 Ask me about **Software Development**
 
 - ⚡ I like 👨‍💻 : Programming | ☕: Coffee | 📖: books <hr>
